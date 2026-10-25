@@ -1,0 +1,6 @@
+{
+  "name": "HotelPro – Hotel Booking & Management System",
+  "description": "Full-stack MERN hotel reservation and management platform featuring real-time room availability, JWT authentication, booking engine, and comprehensive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
